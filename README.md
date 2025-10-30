@@ -1,6 +1,6 @@
 # My params
 
-1. Optimizing for 'Dem'
+1. Optimizing for 'Rep'
 
 # Instructions
 
