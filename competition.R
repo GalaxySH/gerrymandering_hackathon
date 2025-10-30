@@ -1,3 +1,6 @@
+# this file was not made by the author and is not part of the competition
+
+
 # ============================================================
 # Wisconsin Gerrymandering Simulation Competition
 # ============================================================
