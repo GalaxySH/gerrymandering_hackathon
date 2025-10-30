@@ -1,8 +1,10 @@
-# My params
+# Gerrymandering Hackathon
+
+## My params
 
 1. Optimizing for 'Rep'
 
-# Instructions
+## Instructions
 
 This week, we'll try our hand at gerrymandering Wisconsin House districts to demonstrate how easy it is. Your tasks will be to:
 
