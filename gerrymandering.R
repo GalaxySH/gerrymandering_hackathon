@@ -1,4 +1,5 @@
-# Authors: Stefan Hauge, Alex Bogachev, Justin Jan, Kevin Carroll
+# Gerrymandering Hackathon
+# Author: Stefan Hauge
 
 #knitr::opts_chunk$set(echo = TRUE, message=FALSE, error = TRUE)
 library(tidyverse)
